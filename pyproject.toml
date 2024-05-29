@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "generic data benchmarker"
+version = "0.1.0"
+description = ""
+authors = ["PGross <paul.riedlingen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+duckdb = "0.10.3"
+tqdm = "^4.66.4"
+pandas = "^2.2.2"
+matplotlib = "3.9.0"
+plotly = "^5.22.0"
+statsmodels = "^0.14.2"
+networkx= "3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/versions/baseline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/versions/chain_intersection_hash_table" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/versions/chain_intersection_hash_table_numa_aware" vcs="Git" />
+  </component>
+</project>
